@@ -36,7 +36,7 @@ cd DeepRL-ND-Collaboration-Competition
 ```
 
 Multi-Agent Deep Deterministic Policy Gradient (MADDPG) methods:
-* Follow the instructions in [`Tennis.ipynb`](hhttps://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition/blob/main/Tennis.ipynb) to train and run the agent!
+* Follow the instructions in [`Tennis.ipynb`](https://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition/blob/main/Tennis.ipynb) to train and run the agent!
 
 Use jupyter notebook to open [`Tennis.ipynb`](https://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition/blob/main/Tennis.ipynb)
 

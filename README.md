@@ -35,13 +35,13 @@ git clone https://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition.git
 cd DeepRL-ND-Collaboration-Competition
 ```
 
-<!-- Deep Deterministic Policy Gradient (DDPG) methods:
-* Follow the instructions in [`Continuous_Control_final.ipynb`](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/DDPG/Continuous_Control_final.ipynb) to train and run the agent!
+Multi-Agent Deep Deterministic Policy Gradient (MADDPG) methods:
+* Follow the instructions in [`Tennis.ipynb`](hhttps://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition/blob/main/Tennis.ipynb) to train and run the agent!
 
-Use jupyter notebook to open [`Continuous_Control_final.ipynb`](https://github.com/bmaxdk/DeepRL-ND-Continuous-Control/blob/main/DDPG/Continuous_Control_final.ipynb)
+Use jupyter notebook to open [`Tennis.ipynb`](https://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition/blob/main/Tennis.ipynb)
 
 
- -->
+
 
 
 

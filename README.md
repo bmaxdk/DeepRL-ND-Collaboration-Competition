@@ -1,8 +1,13 @@
+[//]: # (Image References)
+
+[image1]:https://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition/blob/main/img_tennis_play.png "Trained Agent"
+
+
+
+![Trained Agent][image1]
+
+
 # DeepRL-ND-Collaboration-Competition
-
-[//]: # "Image References"
-
-**Udacity's Deep Reinforcement Learning Nanodegree**
 
 
 ### Introduction

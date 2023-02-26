@@ -35,9 +35,9 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ## Instructions
 
-```
-git clone https://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition.git
-cd DeepRL-ND-Collaboration-Competition
+```bash
+$ git clone https://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition.git
+$ cd DeepRL-ND-Collaboration-Competition
 ```
 
 Multi-Agent Deep Deterministic Policy Gradient (MADDPG) methods:

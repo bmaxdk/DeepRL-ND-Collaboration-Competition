@@ -8,7 +8,7 @@
 
 
 # DeepRL-ND-Collaboration-Competition
-
+[Report](https://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition/blob/main/Report.pdf)
 
 ### Introduction
 

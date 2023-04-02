@@ -1,9 +1,11 @@
 [//]: # (Image References)
 
 [image1]:https://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition/blob/main/img_tennis_play.png "Trained Agent"
-My code from scratch:
+## My code from scratch:
 [Tennis.ipynb](https://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition/blob/main/Tennis.ipynb)
+
 [ddpg_ageent.py](https://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition/blob/main/ddpg_agent.py)
+
 [model.py](https://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition/blob/main/model.py)
 
 

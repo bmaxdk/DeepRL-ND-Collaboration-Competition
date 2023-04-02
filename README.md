@@ -2,7 +2,7 @@
 
 [image1]:https://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition/blob/main/img_tennis_play.png "Trained Agent"
 ## My code from scratch:
-`MADDPG`
+`MADDPG`:
 
 [Tennis.ipynb](https://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition/blob/main/Tennis.ipynb)
 

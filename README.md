@@ -1,4 +1,6 @@
 [//]: # (Image References)
+# DeepRL-ND-Collaboration-Competition
+## [Report](https://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition/blob/main/Report.pdf)
 
 [image1]:https://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition/blob/main/img_tennis_play.png "Trained Agent"
 ## My code from scratch:
@@ -13,9 +15,6 @@
 
 ![Trained Agent][image1]
 
-
-# DeepRL-ND-Collaboration-Competition
-## [Report](https://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition/blob/main/Report.pdf)
 
 ### Introduction
 

@@ -1,5 +1,8 @@
 [//]: # (Image References)
-# DeepRL-ND-Collaboration-Competition
+
+<h1 align="center">DeepRL-ND-Collaboration-Competition</h1>
+
+
 ## [Report](https://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition/blob/main/Report.pdf)
 
 [image1]:https://github.com/bmaxdk/DeepRL-ND-Collaboration-Competition/blob/main/img_tennis_play.png "Trained Agent"
